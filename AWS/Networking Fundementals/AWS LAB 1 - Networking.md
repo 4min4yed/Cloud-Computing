@@ -1,4 +1,4 @@
-# AWS Lab 1 - Networking
+# AWS Networking
 
 ## Cloud Engineering Snapshot
 This lab demonstrates practical AWS networking fundamentals using **awscli** on a local AWS testing environment (*LocalStack*), particularly in:
