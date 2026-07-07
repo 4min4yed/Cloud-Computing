@@ -1,6 +1,6 @@
 # AWS Networking
 
-## Cloud Engineering Snapshot
+## Summary
 This lab demonstrates practical AWS networking fundamentals using **awscli** on a local AWS testing environment (*LocalStack*), particularly in:
 ```
 - VPC design, subnets, Internet Gateways, and route table configuration.
