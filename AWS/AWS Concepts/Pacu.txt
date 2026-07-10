@@ -1,0 +1,1 @@
+put* user policy: allows iam user policies to be modified

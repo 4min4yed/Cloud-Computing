@@ -1,0 +1,19 @@
+AWS Services for Detection:
+
+Service:			Purpose:
+
+AWS Shield
+AWS WAFweb application firewall Monitor network rqsts in web applications. 
+AWS Key Management Service
+Security Hub			Centralizes and prioritizes findings from GuardDuty, Inspector, etc.
+`\_ by dflt: send -> evnt bridge
+GuardDuty			Intelligent threat Detection (from logs ,API calls, DNS, etc.)
+`\_config trusted IP list and threat list.
+CloudTrail			Logs every action taken in AWS (management + data events)
+Inspector			Scans EC2, Lambda, and containers for vulnerabilities
+Athena Queries 			CloudTrail logs in S3 to analyze security events
+Macie				Classifies and discovers sensitive data in S3 (e.g., PII)
+Network Access Analyzer		Finds unintended network paths between resources (VPC subnets)
+CloudWatch Anomaly Detection	Detects unusual metric behavior from baselines
+Amazon Detective		Investigates and visualizes suspicious activity using data from multiple sources
+IAM Access Analyzer		Finds resources shared with external accounts (e.g., public buckets)
