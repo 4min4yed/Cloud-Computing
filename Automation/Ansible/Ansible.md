@@ -1,5 +1,4 @@
-
-<img width="330" height="407" alt="Ansible_logo svg" src="https://github.com/user-attachments/assets/50c2c866-f6d8-4ef3-8106-3f726d49e64b" />
+<img width="554" height="554" alt="images" src="https://github.com/user-attachments/assets/b5e75280-37e3-4c66-8462-f5f85d856c4b" />
 
 From theory to action; configuring ansible, defining running and troubleshooting playbooks:
 NOTES:
